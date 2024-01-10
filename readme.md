@@ -15,6 +15,10 @@
       <li>Project Management</li>
       <li>Marketing</li>
       <li>Graphic Design</li>
+      <li>Business Analysis</li>
+      <li>Technical Writing</li>
+      <li>System Administration</li>
+      <li>E-Commerce Management</li>
     </ul>
 
 <h2>Certifications</h2>
